@@ -15,5 +15,5 @@ da [Digital Innovation One](https://www.dio.me/).
 git init
 ```
 
-## Referências
-- [Digital innovation one] ().
+## 📡 Referências
+- ([Digital innovation one](https://app.santanderopenacademy.com/)).
