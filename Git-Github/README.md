@@ -38,7 +38,7 @@ da [Digital Innovation One](https://www.dio.me/).
 ## 📡 Referências
 - ([Digital innovation one](https://app.santanderopenacademy.com/)).
 
-- [Certificado](Git-GitHub.pdf)
+- [Certificado](https://hermes.dio.me/certificates/BAM2W5XK.pdf)
 
 - ![octocat-1714609591872](https://github.com/kauecodify/BackEnd-JAVA-DIO/assets/143859403/bc567320-922f-4bab-b3f6-e6c12a86152c)
 
