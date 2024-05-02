@@ -7,7 +7,7 @@ da [Digital Innovation One](https://www.dio.me/).
 - [Documentação GitHub](https://docs.github.com)
 
 ## 🖥️ Resumo das Aulas
-| Aulas | Resumos |
+| Codes | Resumos |
 |-------|---------|
 | git config --global user.name "Seu Nome" | configura nome |
 | git config --global user.email "seu-email@example.com" | configura email |
