@@ -22,7 +22,7 @@ da [Digital Innovation One](https://www.dio.me/).
 | git checkout -b novo_branch | cria branch e muda pra ele |
 | git merge nome_do_branch | mescla branch na brach atual |
 | git branch -d nome_do_branch | apaga branch |
-| git remote add nome_remoto url_do_repositorio | adicionaa repositório remoto |
+| git remote add nome_remoto url_do_repositorio | adiciona repositório remoto |
 | git push nome_remoto nome_do_branch | envia commits p repositório |
 | git pull nome_remoto nome_do_branch | atualiza repositório com alterações do remoto |
 | git status | mostra status dos arquivos |
@@ -32,11 +32,8 @@ da [Digital Innovation One](https://www.dio.me/).
 | git reset --mixed HEAD~[número de commits a remover] | ´´ sem staged área |
 | git reset --hard HEAD~[número de commits a remover] | remove completamente as alterações |
 | git revert HEAD~[número de commits a reverter]..HEAD | apaga commits já enviados ao rep |
+| git stash / ´´ list / ´´pop / ´´ apply | arquiva alterações / lista ela / aplica excluindo / aplica sem exclusão  |
 
-```
-git init
-
-```
 
 ## 📡 Referências
 - ([Digital innovation one](https://app.santanderopenacademy.com/)).
