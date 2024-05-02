@@ -40,6 +40,6 @@ da [Digital Innovation One](https://www.dio.me/).
 
 - [Certificado](Git-GitHub.pdf)
 
-- (![octocat-1714609591872](https://github.com/kauecodify/BackEnd-JAVA-DIO/assets/143859403/bc567320-922f-4bab-b3f6-e6c12a86152c)
+- ![octocat-1714609591872](https://github.com/kauecodify/BackEnd-JAVA-DIO/assets/143859403/bc567320-922f-4bab-b3f6-e6c12a86152c)
 
 
