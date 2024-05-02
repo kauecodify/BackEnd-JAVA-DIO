@@ -1,6 +1,6 @@
 # DIO | RESUMOS Git e GitHub
 Resumos sobre o armazenamento no Git e GitHub do curso Versionamento de Código com Git e GitHub
-da [Digital Innovation One](https://www.dio.me/).
+da [Digital Innovation One](https://www.dio.me/)
 
 ## 📂 Documentação
 - [Documentação Git](https://git-scm.com/doc)
@@ -38,6 +38,6 @@ da [Digital Innovation One](https://www.dio.me/).
 ## 📡 Referências
 
 - [Certificado](https://hermes.dio.me/certificates/BAM2W5XK.pdf)
-- ([Digital innovation one](https://app.santanderopenacademy.com/))
+- ([Digital innovation one](https://app.santanderopenacademy.com/)
 
 - ![octocat-1714609591872](https://github.com/kauecodify/BackEnd-JAVA-DIO/assets/143859403/bc567320-922f-4bab-b3f6-e6c12a86152c)
