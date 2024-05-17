@@ -3,5 +3,5 @@
 
 **BackEnd JAVA - DIO**
 
-Learning in JAVA ![loading](loading.gif)
+Learning in JAVA... ![loading](loading.gif)
 
