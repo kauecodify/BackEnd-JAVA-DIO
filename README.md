@@ -3,5 +3,7 @@
 
 **BackEnd JAVA - DIO**
 
-Learning in JAVA... ![loading](loading.gif)
+
+
+Desconsiderar Python, Learning in JAVA... ![loading](loading.gif)
 
